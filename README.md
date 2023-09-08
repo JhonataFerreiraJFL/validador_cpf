@@ -53,10 +53,3 @@ Para executar o programa, siga os passos abaixo:
 
 Certifique-se de que você tenha o Lua instalado no seu sistema antes de executar o programa.
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar uma solicitação de pull.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
